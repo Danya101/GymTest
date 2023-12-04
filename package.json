@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://met43211.github.io/fitnessHouse/",
+  "homepage": "https://danya101.github.io/GymTest/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
